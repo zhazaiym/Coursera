@@ -1,0 +1,65 @@
+{
+  "title": "Python Backend",
+  "description": "Изучение FastAPI, Django, SQLAlchemy и создание backend приложений",
+  "level": [
+    "beginner",
+    "intermediate"
+  ],
+  "price": 12000,
+  "duration_weeks": 12,
+  "is_active": true,
+  "status": "plus",
+  "category_id": 1
+}
+
+{
+  "title": "Machine Learning",
+  "description": "Основы машинного обучения, работа с данными и построение ML моделей",
+  "level": [
+    "intermediate",
+    "advanced"
+  ],
+  "price": 18000,
+  "duration_weeks": 16,
+  "is_active": true,
+  "status": "plus",
+  "category_id": 1
+}
+{
+  "title": "Data Science",
+  "description": "Python, анализ данных, NumPy, Pandas и визуализация данных",
+  "level": [
+    "beginner",
+    "intermediate"
+  ],
+  "price": 15000,
+  "duration_weeks": 14,
+  "is_active": true,
+  "status": "plus",
+  "category_id": 1
+}
+{
+  "title": "Data Science",
+  "description": "Python, анализ данных, NumPy, Pandas и визуализация данных",
+  "level": [
+    "beginner",
+    "intermediate"
+  ],
+  "price": 15000,
+  "duration_weeks": 14,
+  "is_active": true,
+  "status": "plus",
+  "category_id": 1
+}
+{
+  "title": "HTML и CSS",
+  "description": "Создание современных и адаптивных веб-страниц с нуля",
+  "level": [
+    "beginner"
+  ],
+  "price": 5000,
+  "duration_weeks": 6,
+  "is_active": true,
+  "status": "free",
+  "category_id": 1
+}
